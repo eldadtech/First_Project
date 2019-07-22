@@ -1,7 +1,7 @@
 # Automating "BuyME" Website Project
 # Share to repository
 # Goal : Sanity Test
-
+#test pool scm
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.keys import Keys
