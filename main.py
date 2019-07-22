@@ -1,7 +1,11 @@
 # Automating "BuyME" Website Project
 # Share to repository
 # Goal : Sanity Test
+<<<<<<< Updated upstream
 #fdsfsaf
+=======
+#dfff
+>>>>>>> Stashed changes
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.keys import Keys
